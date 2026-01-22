@@ -1,0 +1,17 @@
+Write a stealth / low-key launch announcement thread for Farcaster (6–9 casts).
+
+Product / tool name: ………………………………………………
+Core value (privacy-focused): ………………………………………
+
+Structure 2026 meta:
+1. Meme / cryptic hook cast (no direct name)
+2. Tease problem it solves
+3. Reveal name + 1-sentence what it does
+4–6. 3 killer features (focus on privacy / anon / zk)
+7. How to access (link / frame / waitlist)
+8. CTA: recast if you want early access
+9. Easter egg / hidden tip for first 50 users
+
+Tone: mysterious → excited → community-first
+Use minimal emojis, strong visuals suggested per cast
+Return numbered casts ready to copy-paste.
