@@ -1,0 +1,17 @@
+Create a viral "daily streak" or "claim drop" Frame (growth loop style).
+
+Concept: users come back every 24h to claim points / tokens / badge
+
+Features:
+- Check FID → show current streak
+- Button: "Claim Today" (disabled if already claimed)
+- After claim: +1 streak, new total, fun animation prompt
+- Motivator: "Streak 7 → unlock secret drop"
+
+Image ideas:
+- Progress bar or calendar heatmap
+- Reward teaser for higher streaks
+
+Buttons flow: "Claim" → "Share Streak" → "Back to Feed"
+
+Return step-by-step Frame states + image prompts.
