@@ -1,0 +1,16 @@
+Write a simple Vault smart contract (Yearn-style) in Solidity 0.8.24:
+
+Features:
+- deposit(uint256 amount) – deposit ERC20
+- withdraw(uint256 shares) – proportional withdrawal
+- totalAssets() → uint256 – total managed assets
+- pricePerShare() → uint256 – price per 1 share
+- only owner can call harvest() (empty body for now)
+
+Assumptions:
+- single ERC20 asset (e.g. USDC)
+- use OpenZeppelin IERC20 & Ownable
+- standard Deposit / Withdraw events
+- include nonReentrant guard
+
+Return only the contract code + imports. No tests or deploy scripts.
