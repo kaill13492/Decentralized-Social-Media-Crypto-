@@ -1,0 +1,27 @@
+Create a multi-question quiz Frame for Farcaster / Mini App.
+
+Topic: ………………………………………………
+Audience: crypto degens / web3 builders / NFT collectors / etc.
+Number of questions: 4–6
+Goal: education + fun + shareable result (score + badge text)
+
+Each question:
+- Clear question text
+- 3–4 button options (only one correct)
+- After each answer: show feedback ("Correct! +10 pts" / "Wrong… try again?")
+- Final screen: total score + fun title ("You're a Solidity Wizard!" / "Still learning Base…") + share button
+
+Include:
+- Image prompt for each step (static or generative style)
+- Buttons: "Next", "Restart", "Share Result"
+- Optional: onchain mint badge if score > X (just placeholder text)
+
+Return numbered steps in format:
+
+Step 1/6 – Question
+Text: …
+Image prompt: …
+Buttons: …
+
+Step 2/6 – Feedback
+…
