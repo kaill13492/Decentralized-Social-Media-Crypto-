@@ -1,0 +1,17 @@
+Design recurring "Daily Privacy Tip" Frame for Farcaster builders/degens.
+
+Daily hook: one short, actionable privacy/web3 tip
+Examples to randomize from:
+- Use burner wallet for testing
+- Enable ZK for voting/minting
+- Avoid linking ENS to real identity
+- Check onchain footprint with [tool name]
+- Rotate Farcaster recovery phrase offline
+
+Flow:
+1. Hero image + tip text (60–120 chars)
+2. Buttons: "Save Tip", "Share Tip", "Next Tip" (random new one)
+3. Optional: "Learn More" → link to deep-dive cast or site
+
+Image style: minimalist lock/shield + neon crypto aesthetic
+Return 5 sample tip variants + full Frame structure.
