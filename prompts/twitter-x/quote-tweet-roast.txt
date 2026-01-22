@@ -1,0 +1,13 @@
+Write 8 savage-but-not-toxic quote-tweet style responses.
+
+Original tweet topic / quote: ………………………………………………
+My persona / angle: …………………………………………………………
+
+Each variation should:
+- start with quote-tweet hook (1–2 lines)
+- deliver clever roast / observation / plot twist
+- max 180 characters
+- end with light punch or emoji
+- stay classy – no slurs, no personal attacks
+
+Return numbered list only.
