@@ -1,0 +1,18 @@
+Write a high-value LinkedIn post (800–1400 characters) in first-person voice.
+
+Topic / lesson: …………………………………………………………
+My role / perspective: ………………………………………………
+Target readers: …………………………………………………………
+
+Structure that usually performs best in 2025–2026:
+1. Controversial / surprising opening sentence (1–2 lines)
+2. Quick personal story or concrete example (3–6 lines)
+3. 3–5 numbered / bulleted actionable insights
+4. Vulnerable / honest reflection (what I still struggle with)
+5. Non-salesy CTA: question / poll invitation / “drop your take below”
+
+Tone: expert + human + slightly opinionated  
+Emojis: max 4–6, strategic placement only  
+No buzzword salad. Avoid: "game-changer", "revolutionary", "disrupt"
+
+Return only the ready-to-copy post text.
