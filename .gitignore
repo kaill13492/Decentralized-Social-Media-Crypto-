@@ -1,0 +1,6 @@
+# dodać na końcu
+.env
+*.pyc
+__pycache__/
+outputs/
+media/generated/*
