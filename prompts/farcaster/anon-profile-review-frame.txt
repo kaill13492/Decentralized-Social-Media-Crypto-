@@ -1,0 +1,19 @@
+Create a privacy-first Farcaster Frame: "Anonymous Profile Roast / Review"
+
+Flow:
+- User pastes their own FID or @username
+- Frame fetches public casts (via Neynar or public API)
+- LLM generates funny / savage-but-kind roast / roast-alternative (positive spin option)
+- Privacy twist: no data stored, no tracking, result not linked to FID publicly
+
+States:
+1. Input screen: "Paste your @ or FID" + "Roast me anonymously" button
+2. Loading → generates roast
+3. Output: roast text + "Share anonymously?" button
+4. Optional toggle: "Positive only" / "Savage mode"
+
+Image prompts:
+- Cartoon spy reviewing phone
+- Burn emoji with privacy shield
+
+Return full multi-state description + image prompts.
