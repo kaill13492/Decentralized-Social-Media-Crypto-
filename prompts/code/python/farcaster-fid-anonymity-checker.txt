@@ -1,0 +1,16 @@
+Write Python script that estimates Farcaster user's onchain/privacy exposure.
+
+Input: FID (integer) or @username
+Uses public Neynar API or Warpcast public data (no auth needed for basics)
+
+Checks:
+- Number of casts last 30 days
+- % casts with links / images / mentions
+- Connected wallets (if visible via public casts)
+- Follower/following ratio (doxx risk indicator)
+- Simple score: 0–100 (higher = more exposed)
+
+Output: friendly report + 3 quick privacy tips
+
+Dependencies: requests, python-dotenv (for future API key)
+Return full script + usage example.
