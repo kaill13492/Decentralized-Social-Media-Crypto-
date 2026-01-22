@@ -1,0 +1,19 @@
+Generate a poll Frame (classic but performant in 2025).
+
+Question: ………………………………………………
+Options: 3–4 choices (short & punchy)
+Reveal style: show live results after vote (percent bars or numbers)
+
+Extra twists that boost engagement:
+- "Vote & recast to see results"
+- Anonymous or tied to FID
+- Optional: reward recasters with shoutout / future drop teaser
+
+Image prompt: clean poll graphic with question as big text
+
+Buttons: one per option + maybe "View Results" after vote
+
+Return:
+1. Initial Frame description
+2. Post-vote Frame description
+3. Image prompts for both states
