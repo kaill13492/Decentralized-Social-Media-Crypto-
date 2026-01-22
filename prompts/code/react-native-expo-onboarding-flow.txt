@@ -1,0 +1,18 @@
+Create clean Expo + React Native onboarding flow (3–4 screens):
+
+- Welcome screen + "Get Started" button
+- Slide 1: benefit #1 + illustration
+- Slide 2: benefit #2 + illustration
+- Slide 3: Sign in / Sign up buttons
+
+Use:
+- expo-router or bare React Navigation (pick simpler)
+- TypeScript
+- lucide-react-native or expo/vector-icons
+- basic animations (fade / slide) with Reanimated 3 if possible, but optional
+
+Return:
+1. app/(onboarding)/_layout.tsx
+2. app/(onboarding)/welcome.tsx
+3. components/OnboardingSlide.tsx
+4. package.json dependencies snippet
