@@ -1,0 +1,19 @@
+Design a high-conversion "Free Mint" Frame (Farcaster Mini App style 2025).
+
+Product / NFT collection name: ……………………………………
+Hook reason: limited time / gas cheap / community reward / airdrop claim
+
+Structure:
+- Hero image prompt: eye-catching artwork + countdown timer or "FREE" badge
+- Main text: "Mint now – 0 ETH + gas only • 24h left"
+- Buttons:
+  1. Primary: "Mint Free"
+  2. Secondary: "Preview Art" or "Why free?"
+  3. (optional) "Check Eligibility"
+
+After tap "Mint Free":
+- Transaction simulation or success screen
+- Shareable result: "I just minted [name] for free!"
+
+Focus on curiosity + scarcity + low friction.
+Return full Frame flow in clean steps + thumbnail/image prompts.
