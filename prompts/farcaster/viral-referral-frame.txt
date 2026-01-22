@@ -1,0 +1,17 @@
+Build a referral loop Frame for Farcaster (privacy-respecting).
+
+App / product: ……………………………………………… (e.g., "Privacy-focused cast analyzer")
+Hook: "Invite 3 friends → unlock premium feature anonymously"
+
+Privacy twist: no email/phone, just FID shares + ZK verify
+
+States:
+1. Hero: benefit + "Generate Link" button
+2. Generate: unique referral code (hashed FID)
+3. Track: show referrals count (anonymous tally)
+4. Claim: if >3, mint badge / unlock
+
+Images: funnel diagram, lock icons for privacy
+Buttons: "Share Referral", "Check Status", "Privacy FAQ"
+
+Return full flow + image prompts.
