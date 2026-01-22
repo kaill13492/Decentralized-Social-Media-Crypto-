@@ -1,0 +1,16 @@
+Create a clean, modern Next.js 14 (App Router) example:
+
+- Server Action form (no external libraries except zod for validation)
+- Fields: name, email, message
+- Client-side validation + server-side validation
+- Show success / error toast message (use sonner or built-in alert for simplicity)
+- Loading state on submit button
+- TypeScript
+
+Return separate clearly marked blocks:
+1. app/actions.ts
+2. app/contact/page.tsx
+3. components/Form.tsx (optional – if you split it)
+4. lib/schemas.ts (zod schema)
+
+Keep it under 250 lines total. Modern, readable, no bloat.
