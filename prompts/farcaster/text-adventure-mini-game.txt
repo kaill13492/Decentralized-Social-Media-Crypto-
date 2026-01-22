@@ -1,0 +1,17 @@
+Design a short text-based adventure Frame (like old-school Zork / Based Adventure style).
+
+Theme / setting: ……………………………………………… (cyberpunk heist / degen casino / NFT dungeon)
+Max steps: 5–7 (keep it snappy)
+
+Each screen:
+- Descriptive text (60–120 chars)
+- 2–4 choice buttons
+- Branching logic (simple if/else paths)
+- End: win/lose + score + "Play again" / "Share result"
+
+Image prompt per scene: pixel art or generative moody scene
+
+Return numbered scenes with:
+- Text
+- Image prompt
+- Buttons + next scene id
