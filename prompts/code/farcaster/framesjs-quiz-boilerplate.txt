@@ -1,0 +1,17 @@
+Provide a minimal Frames.js (Next.js) boilerplate for a multi-step quiz Frame.
+
+Requirements:
+- 4 questions, score tracking in state
+- Buttons for answers
+- Final result screen with shareable text
+- Use frames.js library
+- Handle POST requests properly
+- Image generation via placeholder or dynamic URL
+
+Return separate files/blocks:
+1. app/api/frame/route.ts (main handler)
+2. components/QuizFrame.tsx (UI logic if split)
+3. lib/quiz-data.ts (questions array)
+4. package.json dependencies snippet
+
+Keep it <150 lines total. TypeScript. Ready for Vercel deploy.
