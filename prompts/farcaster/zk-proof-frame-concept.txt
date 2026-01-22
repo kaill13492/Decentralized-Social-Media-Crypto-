@@ -1,0 +1,18 @@
+Design a Farcaster Frame for demonstrating simple ZK-proof privacy.
+
+Use case: ……………………………………………… (e.g., "Prove you're over 18 without revealing DOB")
+Chain: Base / Optimism
+Privacy benefit: no data leak, verifiable claims
+
+Flow:
+1. Intro: explain in 1 sentence + "Try proof" button
+2. Input: simple form (age / score / whatever – placeholder)
+3. Generate: simulate ZK proof (text output or tx)
+4. Success: "Proof verified anonymously!" + share button
+
+Image prompts:
+- Clean diagram of ZK flow
+- Privacy shield icon
+
+Include: buttons for "Generate Proof", "Learn More", "Share"
+Return multi-state Frame description + images.
