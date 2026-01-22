@@ -1,0 +1,21 @@
+Write a 4–7 cast thread on Farcaster about privacy in web3.
+
+Main topic / angle: ……………………………………………… (e.g., "Why ZK proofs are the future of Farcaster frames")
+Target: builders / degens / privacy maxis
+Key points to cover: 3–5 actionable tips or myths busted
+
+Structure:
+1. Hook cast: question / hot take on privacy leak
+2–5. Value: explain concept + example (e.g., zero-knowledge mints)
+6. CTA: "What privacy tool are you using? Reply below"
+7. (optional) Teaser: link to your frame / tool
+
+Style: concise, meme-friendly, use 1–2 emojis
+Privacy focus: emphasize data ownership, no tracking, onchain anonymity
+
+Return in format:
+1/7
+Cast text...
+
+2/7
+...
