@@ -1,0 +1,20 @@
+Create a minimal viable TODO app in Flutter (Dart) with:
+
+- main screen showing list of tasks
+- add new task (only title)
+- toggle task done (checkbox)
+- delete task (swipe or icon)
+- local persistence (shared_preferences or hive – simplest option)
+
+Requirements:
+- clean code & good naming
+- use Provider or Riverpod (pick the simpler one)
+- Material 3
+- minimal dependencies (ideally only Flutter SDK + 1 package)
+
+Return complete code in separate blocks:
+1. pubspec.yaml (only added dependencies)
+2. main.dart
+3. models/task.dart (if needed)
+4. providers/task_provider.dart (if used)
+5. screens/home_screen.dart
