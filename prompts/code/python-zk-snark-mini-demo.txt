@@ -1,0 +1,14 @@
+Create a minimal Python demo for ZK-SNARKs (using circomlib or similar – assume installed).
+
+Goal: prove a simple statement privately (e.g., "I know X where hash(X) = Y" without revealing X)
+
+Requirements:
+- Use snarkjs or equivalent (note: for demo, use toy example)
+- Steps: circuit definition, setup, prove, verify
+- Clean code, comments
+- Output: proof JSON + verification result
+
+Return blocks:
+1. requirements.txt additions
+2. zk_demo.py (full script)
+3. circuit.circom (if needed – simple one)
