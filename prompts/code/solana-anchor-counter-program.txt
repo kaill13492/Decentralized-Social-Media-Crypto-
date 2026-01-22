@@ -1,0 +1,16 @@
+Write minimal Anchor program (Solana) – classic counter.
+
+Requirements:
+- One account: Counter { count: u64 }
+- Instructions:
+  • initialize – creates the counter (payer = signer)
+  • increment – bumps count +1
+  • decrement – bumps count -1 (only if > 0)
+- Use Anchor 0.30.x syntax
+- Include basic security checks
+- Return only:
+  1. lib.rs (complete program)
+  2. Anchor.toml snippet (programs section)
+  3. One test example in tests/ folder format
+
+No front-end, no IDL generation comments.
