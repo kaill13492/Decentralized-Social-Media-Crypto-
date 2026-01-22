@@ -1,0 +1,15 @@
+Write Python script using Neynar API to check Farcaster user's privacy exposure.
+
+Features:
+- Input: FID or username
+- Check: public casts, follows, reactions – flag high-exposure (e.g., >100 casts/week)
+- Suggest: privacy tips (hide certain data, use ZK)
+- Use requests or httpx
+- Handle API key via .env
+
+Privacy focus: warn about doxx risks, recommend anon alts
+
+Return:
+1. requirements.txt
+2. privacy_checker.py (full)
+3. Example usage in comments
