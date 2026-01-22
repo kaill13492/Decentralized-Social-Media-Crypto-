@@ -1,0 +1,17 @@
+Generate 12 ultra-strong 3-second hooks for Reels / TikTok / Shorts in 2025–2026 style.
+
+Video topic: ………………………………………………
+Target audience: ………………………………………
+Desired emotion in first 3 seconds: ………………
+
+Each hook must use at least one of:
+- shock / controversy
+- very strong question
+- number + big promise
+- “never again…”
+- “instead of…”
+- dramatic pause after 4–6 words
+- direct “You / If you’re / Stop…”
+- recent viral phrase or meme format
+
+Return only a numbered list of 12 hooks. No explanations.
