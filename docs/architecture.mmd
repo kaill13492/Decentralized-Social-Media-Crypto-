@@ -1,0 +1,10 @@
+graph TD
+    A[User] -->|writes cast| B[Farcaster / Lens / Bluesky]
+    B -->|API / protocol| C[Python Scripts / Automation]
+    C -->|prompts| D[LLM – Claude / Grok / GPT]
+    D -->|generated content| C
+    C -->|onchain action| E[Base / Solana / ZK Proof]
+    E -->|privacy proof| B
+    subgraph "Privacy Layer"
+        E
+    end
