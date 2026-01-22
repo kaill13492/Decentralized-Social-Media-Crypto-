@@ -1,0 +1,17 @@
+Create a privacy-first onchain voting Frame for Farcaster.
+
+Poll question: ………………………………………………
+Options: 3–4
+Privacy: use ZK to vote without revealing choice (simulate or real)
+
+Flow:
+1. View poll + "Vote Privately" button
+2. Select option (hidden input)
+3. Submit: generate ZK proof + tx
+4. Results: aggregated tally (no individual reveals)
+5. Share: "I voted anonymously in [poll]!"
+
+Images: ballot box with lock, bar chart without names
+Buttons: options as hidden + "Confirm Vote"
+
+Return states + images.
