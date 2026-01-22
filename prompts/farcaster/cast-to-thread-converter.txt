@@ -1,0 +1,18 @@
+Turn a single Farcaster cast into a proper X-style thread (5–8 connected casts).
+
+Input cast text: …………………………………………………………
+
+Rules 2026:
+- Keep original meaning & tone
+- Break into logical chunks (hook → value → examples → CTA)
+- Add cliffhangers between casts (e.g., "1/7 … thread continues 👇")
+- Use 1–3 emojis total
+- End with strong CTA: reply / recast / follow
+- Privacy note: suggest removing personal identifiers if sensitive
+
+Return in numbered format:
+1/8
+Cast text...
+
+2/8
+...
